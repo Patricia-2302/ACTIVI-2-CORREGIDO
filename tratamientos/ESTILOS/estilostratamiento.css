@@ -1,0 +1,18 @@
+body{
+    background: url(../IMAGENESTRA/fondo.jpg);  }
+
+    #navegador ul{
+        list-style-type: none;
+        text-align: left;}
+        #navegador li{
+            text-align: center;
+            margin: 0 10px 0 0;}
+            #navegador li a:hover{
+                background-color: #897ceb;
+                color: #020203;}
+                #navegador li a {
+                    padding: 0px 10px 2px 0px;
+                    color: rgb(0, 0, 0);
+                    background-color: #f1a8e5;
+                    border: 1px solid rgb(240, 46, 181);
+                    text-decoration: none;}

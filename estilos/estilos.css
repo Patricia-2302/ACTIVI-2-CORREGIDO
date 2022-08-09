@@ -1,0 +1,40 @@
+body{
+    background: url(../imagenes/fondo.jpg);  }
+ 
+#titulo h1{
+    text-align: center;
+    color: rgb(30, 13, 61); 
+    font-size: 80px; 
+    line-height: 1.6; 
+    text-transform: uppercase;  
+    font-weight: bold; 
+    letter-spacing: 2px;
+    background-color: rgb(113, 194, 226);}
+
+
+    #bnavegacion ul{
+        font-size: 30px;
+        list-style-type: none;
+        text-align: center;
+        background-color: rgb(113, 194,226);height: 50px;; }
+
+        #bnavegacion li{
+            display: inline;
+            text-align: center;
+            margin: 0 10px 0 0;}
+
+            #bnavegacion li a:hover{
+                background-color: #795199;
+                color: #ffffff;}
+
+                #bnavegacion li a {
+                    padding: 2px 7px 2px 7px;
+                    color: #666;
+                    background-color: #eeeeee;
+                    border: 1px solid #ccc;
+                    text-decoration: none;
+                    text-align: center;}
+
+                 
+
+                    
